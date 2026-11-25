@@ -26,6 +26,8 @@ public class Funciones {
     public static void saludar() {
         
         System.out.println("Hola Mundo desde un método adicional");
+        
+        System.out.println("Log de prueba");
     }
     
 }
